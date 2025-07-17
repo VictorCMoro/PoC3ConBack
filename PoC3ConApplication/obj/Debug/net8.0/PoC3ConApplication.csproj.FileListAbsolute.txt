@@ -1,0 +1,16 @@
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\bin\Debug\net8.0\PoC3ConApplication.deps.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\bin\Debug\net8.0\PoC3ConApplication.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\bin\Debug\net8.0\PoC3ConApplication.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\bin\Debug\net8.0\PoC3ConDomain.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\bin\Debug\net8.0\PoC3ConDomain.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.csproj.AssemblyReference.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.AssemblyInfoInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.AssemblyInfo.cs
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.csproj.CoreCompileInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.sourcelink.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConA.800793F8.Up2Date
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\refint\PoC3ConApplication.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\PoC3ConApplication.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConApplication\obj\Debug\net8.0\ref\PoC3ConApplication.dll

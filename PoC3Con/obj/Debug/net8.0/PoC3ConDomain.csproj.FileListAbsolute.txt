@@ -1,0 +1,12 @@
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\bin\Debug\net8.0\PoC3ConDomain.deps.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\bin\Debug\net8.0\PoC3ConDomain.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\bin\Debug\net8.0\PoC3ConDomain.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.AssemblyInfoInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.AssemblyInfo.cs
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.csproj.CoreCompileInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.sourcelink.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\refint\PoC3ConDomain.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\PoC3ConDomain.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3Con\obj\Debug\net8.0\ref\PoC3ConDomain.dll

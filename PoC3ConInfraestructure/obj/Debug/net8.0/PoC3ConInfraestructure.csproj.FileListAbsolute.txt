@@ -1,0 +1,16 @@
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\bin\Debug\net8.0\PoC3ConInfraestructure.deps.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\bin\Debug\net8.0\PoC3ConInfraestructure.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\bin\Debug\net8.0\PoC3ConInfraestructure.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\bin\Debug\net8.0\PoC3ConDomain.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\bin\Debug\net8.0\PoC3ConDomain.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.csproj.AssemblyReference.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.AssemblyInfoInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.AssemblyInfo.cs
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.sourcelink.json
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConI.86AA1C5E.Up2Date
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\refint\PoC3ConInfraestructure.dll
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\PoC3ConInfraestructure.pdb
+C:\Users\morov\OneDrive\Área de Trabalho\programacao\PoC3Con\PoC3ConInfraestructure\obj\Debug\net8.0\ref\PoC3ConInfraestructure.dll
