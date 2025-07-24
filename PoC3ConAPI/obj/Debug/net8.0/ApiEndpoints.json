@@ -125,12 +125,18 @@
   },
   {
     "ContainingType": "PoC3ConAPI.Routes.PedidoRoutes\u002B\u003C\u003Ec",
-    "Method": "\u003CMapPedidoRoutes\u003Eb__0_0",
+    "Method": "\u003CMapPedidoRoutes\u003Eb__0_1",
     "RelativePath": "api/Pedidos/",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "PoC3ConDomain.Entities.Pedido",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Void",
@@ -144,15 +150,15 @@
   },
   {
     "ContainingType": "PoC3ConAPI.Routes.PedidoRoutes\u002B\u003C\u003Ec",
-    "Method": "\u003CMapPedidoRoutes\u003Eb__0_1",
-    "RelativePath": "api/Pedidos/",
-    "HttpMethod": "POST",
+    "Method": "\u003CMapPedidoRoutes\u003Eb__0_0",
+    "RelativePath": "api/Pedidos/{id}",
+    "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "pedido",
-        "Type": "PoC3ConDomain.Entities.Pedido",
+        "Name": "id",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoC3ConDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38eecaddc82062f602abfdb914c5b190aac9fded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54473495fa50461cc57b3af92fc281c712dbf77")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoC3ConDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoC3ConDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

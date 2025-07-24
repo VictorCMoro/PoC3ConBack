@@ -13,6 +13,6 @@ namespace PoC3ConApplication.UseCases.Clientes.Create
         public string Email { get; set; } = string.Empty;
         public string Cpf { get; set; } = string.Empty;
         public string? Telefone { get; set; }
-        public DateTime? DataNascimento { get; set; }
+        public DateOnly DataNascimento { get; set; }
     }
 }

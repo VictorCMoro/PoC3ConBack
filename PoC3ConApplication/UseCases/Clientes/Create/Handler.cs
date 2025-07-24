@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using PoC3ConDomain.Factories;
 using PoC3ConDomain.Repositories;
 using System;
 using System.Collections.Generic;
@@ -14,15 +15,14 @@ namespace PoC3ConApplication.UseCases.Clientes.Create
         {
             var dto = request.ClienteDto;
 
-            var cliente = new PoC3ConDomain.Entities.Cliente
-            {
-                Nome = dto.Nome,
-                Email = dto.Email,
-                Telefone = dto.Telefone,
-                Cpf = dto.Cpf,
-                DataNascimento = dto.DataNascimento ?? DateTime.MinValue,
-                Pedidos = []
-            };
+            var cliente = ClienteFactory.Criar(
+                dto.Nome,
+                dto.Email,
+                dto.Telefone,
+                dto.Cpf,
+                dto.DataNascimento
+            );
+            
 
             var clienteCriado = await clienteRepository.CreateCliente(cliente);
 

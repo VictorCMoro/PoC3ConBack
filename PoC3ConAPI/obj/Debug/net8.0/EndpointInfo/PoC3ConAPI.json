@@ -112,17 +112,30 @@
         }
       }
     },
-    "/api/Pedidos": {
+    "/api/Pedidos/{id}": {
       "get": {
         "tags": [
           "Pedidos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
         ],
         "responses": {
           "200": {
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/api/Pedidos": {
       "post": {
         "tags": [
           "Pedidos"
@@ -178,7 +191,7 @@
           },
           "dataNascimento": {
             "type": "string",
-            "format": "date-time"
+            "format": "date"
           },
           "pedidos": {
             "type": "array",
@@ -215,8 +228,7 @@
           },
           "dataNascimento": {
             "type": "string",
-            "format": "date-time",
-            "nullable": true
+            "format": "date"
           }
         },
         "additionalProperties": false
@@ -241,7 +253,7 @@
           },
           "dataPedido": {
             "type": "string",
-            "format": "date-time"
+            "format": "date"
           },
           "descricao": {
             "type": "string",

@@ -9,7 +9,7 @@ namespace PoC3ConDomain.Repositories
 {
     public interface IPedidoRepository : IRepository<Pedido>
     {
-        Task<List<Pedido>> GetAllPedidos();
+        Task<List<Pedido>> GetPedidosById(Guid id);
         Task<Pedido> CreatePedido(Pedido pedido);
     }
 }

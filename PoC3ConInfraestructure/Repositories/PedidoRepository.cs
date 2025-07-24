@@ -18,10 +18,11 @@ namespace PoC3ConInfraestructure.Repositories
             await appDbContext.SaveChangesAsync();
             return newPedido.Entity;
         }
-
-        public async Task<List<Pedido>> GetAllPedidos()
+        public async Task<List<Pedido>> GetPedidosById(Guid id)
         {
-            return await appDbContext.Pedidos.ToListAsync();
+            return await appDbContext.Pedidos
+                .Where(p => p.ClienteId == id)
+                .ToListAsync();
         }
     }
 }
