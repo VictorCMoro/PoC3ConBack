@@ -20,6 +20,8 @@ Este é o backend do projeto **PoC3Con**, desenvolvido em .NET com foco em arqui
 
 - Repository Pattern: Abstração da camada de persistência com interfaces no domínio.
 
+- Factory Pattern: Separação da lógica de validação e criação da entidade pedido de sua classe.
+
 - Command/Handler Pattern: Implementação dos casos de uso via comandos e manipuladores.
 
 ### 🧱 Camadas da aplicação
@@ -31,6 +33,7 @@ Responsável pelas regras de negócio puras.
 - Entidades (ex: `Cliente`, `Pedido`)
 - Interfaces (ex: `IClienteRepository`)
 - Abstrações
+- Factories
 - Validators (ex: `CpfValidator`)
 
 #### 2. Application
